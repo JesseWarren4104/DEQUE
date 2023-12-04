@@ -1,1 +1,3 @@
 # DEQUE
+This was a harsh challenge due to the complete lack of help I received during this assignment, and the other two/three group assignments. I managed to get everything working, though there are bugs I wasn't able to kink out, which includes the pop_back and push_front. They work partially, but not to a complete degree.
+This assignment mimicks the usuage of deques by implementing the functions that are usually found in them. 
